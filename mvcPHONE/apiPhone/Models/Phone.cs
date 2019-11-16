@@ -27,7 +27,5 @@ namespace apiPhone.Models//ctrl
 
         [Required]
         public string Contact { get; set; }
-
-
     }
 }
